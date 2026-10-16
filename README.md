@@ -1,8 +1,5 @@
 # MovieLens Analytics with Databricks & PySpark
 
-**Course:** 5AXD57 Big Data and Cloud Computing  
-**Student:** Ethan Le Chevallier  
-
 ## 📌 Project Overview
 This repository contains Big Data analysis on the MovieLens dataset using Databricks, Spark SQL, and PySpark DataFrames.
 
